@@ -3,9 +3,10 @@
 
 ### Welcome ![robot](https://i.ibb.co/hH24sx3/Sans-titre.png)
 
-
+#### Somes news from me:
 - 🔭 I'm currently working on android reverse engineering.
 - 🌱 I’m currently learning sandbox evasion.
+### ⚖ Balancing
 
 |      Strengths |                       Weakness                       |
 |---------------:|:----------------------------------------------------:|

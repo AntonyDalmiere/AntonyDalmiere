@@ -18,10 +18,10 @@
 ### 🐱‍👤 Skills
 
 🔳🔳🔳🔳⬜️ Developpement Web<br />
-🔳🔳🔳🔳⬜️ Developpement Android<br />
+🔳🔳🔳🔳🔳 Mobile development<br />
 ⚡⚡⚡⬜️⬜️ Cybersecurity (malware and antimalware technique)<br />
-🌲⬜️⬜️⬜️⬜️ Bioinformatics<br />
-🔳🔳🔳⬜️⬜️ System Administration<br />
+🌲🌲⬜️⬜️⬜️ Bioinformatics<br />
+🔳🔳🔳⬜️⬜️ System and Network Administration<br />
 
 ### 🗣 Language
 * English (B1 but work harder to improve myself)

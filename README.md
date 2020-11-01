@@ -13,7 +13,7 @@
 | ~~Too strong~~ | Photoshop (look at my banner😐)                       |
 | Autodidact     | Formal language theory                               |
 | Versatile      | Maybe lazy when it's time to make unit test 🤷‍♂️ |
-| Curious      | Lack of time in all domains |
+| Curious      | Lack of time |
 
 ### 🐱‍👤 Skills
 
@@ -38,3 +38,11 @@
 * Cybersecurity 🛡
 * Biohacking 🦠
 
+### 👷 Experiences
+
+* 1 month in a small enetrprise as computer repairman.
+    * First work experiance, this was very cool, i learned how to deal with clients and i improved my analytics skills.
+* 2 months at Institut de Recherche en Informatique de Toulouse.
+    * Work on improve the student life at Paul Sabatier.
+    * Increase Agile software development skills
+    * Developping an android application in kotlin in collaboration with others thanks to gitflow.

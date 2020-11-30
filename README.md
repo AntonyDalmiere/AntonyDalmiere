@@ -9,7 +9,8 @@
 
 #### Somes news from me:
 - 🔭 I'm currently working on android reverse engineering.
-- 🌱 I’m currently learning sandbox evasion.
+- 🌱 I'm currently learning sandbox evasion.
+- 👔 I'm looking for an internship in cybersecurity.
 ### ⚖ Balancing
 
 |      Strengths |                       Weakness                       |
@@ -21,20 +22,25 @@
 
 ### 🐱‍👤 Skills
 
-🔳🔳🔳🔳⬜️ Developpement Web<br />
+🔳🔳🔳🔳⬜️ Web Developpement<br />
 🔳🔳🔳🔳🔳 Mobile development<br />
 ⚡⚡⚡⬜️⬜️ Cybersecurity (malware and antimalware technique)<br />
 🌲🌲⬜️⬜️⬜️ Bioinformatics<br />
 🔳🔳🔳⬜️⬜️ System and Network Administration<br />
 
 ### 🗣 Language
-* English (B1 but work harder to improve myself)
+* English (B1 but working hard to improve myself)
 * French 🔵⚪🔴
 * Chinese (不很好)
 
+### 👔 Profesionnal project
+You can check my CV [here](https://drive.google.com/file/d/1J27LePS3FGBXHHBFPwAN0REjGRxXMlZL/view?usp=sharing).<br />
+If you are interested in my profile, you should first consider my professional project: [Here](https://docs.google.com/presentation/d/1gO147VPrB_H6gjW1x_kD--vA0oLElZcgzd3EAfcnjhM/edit?usp=sharing).
+
 ### 👨‍🎓 Diploma
-🏆 Baccalaureate diploma spe. SVT.<br />
-🏆 Bachelor’s Degree in Computer Science spe. Biology with honours.
+* 🏆 Baccalaureate diploma spe. SVT.<br />
+* 🏆 Bachelor’s Degree in Computer Science spe. Biology with honours.
+  * I studied computer science and mathematics in a very theoretical way. I also developed my knowledge of systems, architecture and networks.
 
 ### 🧡 My passions
 

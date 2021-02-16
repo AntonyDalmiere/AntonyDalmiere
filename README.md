@@ -9,7 +9,7 @@
 
 #### Somes news from me:
 - 🔭 I'm currently working on android reverse engineering.
-- 🌱 I'm currently learning sandbox evasion.
+- 🌱 I'm currently learning [Frida](https://frida.re/docs/android/).
 - 👔 I'm looking for an internship in cybersecurity.
 ### ⚖ Balancing
 

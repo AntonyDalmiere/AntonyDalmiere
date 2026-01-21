@@ -1,5 +1,3 @@
-
-![banner](https://i.ibb.co/4pCRhmB/untitled.png)<br />
 ![](https://komarev.com/ghpvc/?username=AntonyDalmiere&color=blueviolet) 
 [![Mail me](https://img.shields.io/badge/Contact-me-yellow?logo=gmail&style=flat-square)
 ](https://mailhide.io/e/i6zGNpSI) <br /> 
@@ -45,8 +43,8 @@ Main themes: LLM alignment, persuasion, phishing, conspiracy thinking, and threa
 
 ## Education
 - 2026 - Ph.D Social Engineering, CNRS.
-- 2025 – Summer program in Data Science & AI, HEC Paris. 
-- 2025 – Master’s in Social Psychology, University Paris 8. 
-- 2022 – French engineering degree + Master’s in Computer Science, ENSEEIHT. 
-- 2022 – Bachelor in Social Psychology & Neuropsychology, University Jean Jaurès.  
-- 2020 – Bachelor in Computer Science, University Paul Sabatier.
+- 2025 - Summer program in Data Science & AI, HEC Paris. 
+- 2025 - Master’s in Social Psychology, University Paris 8. 
+- 2022 - French engineering degree + Master’s in Computer Science, ENSEEIHT. 
+- 2022 - Bachelor in Social Psychology & Neuropsychology, University Jean Jaurès.  
+- 2020 - Bachelor in Computer Science, University Paul Sabatier.

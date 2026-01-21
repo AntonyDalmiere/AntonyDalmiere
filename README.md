@@ -14,9 +14,11 @@
 
 Main themes: LLM alignment, persuasion, phishing, conspiracy thinking, and threat communication. 
 
-- Measuring modern phishing tactics with large language models.
-- In‑context learning for classifying manipulation techniques in social engineering.  
-- Aligning LLMs to increase persuasiveness through post‑training.
+- Measuring Modern Phishing Tactics: A Quantitative Study of Body Obfuscation Prevalence, Co-occurrence, and Filter Impact, book chapter, 2026, DOI: 10.1007/978-3-032-06155-3_11.
+- Replication Data for “Measuring susceptibility: A benchmark for conspiracy theory adherence in large language models”, dataset, 2025-11-09, DOI: 10.5281/ZENODO.17566812.
+- IA : comment les grands modèles de langage peuvent devenir des super méchants… entre de mauvaises mains, other publication, 2025-07-09, DOI: 10.64628/aak.jtpghegyy.  
+- In-context learning for the classification of manipulation techniques in phishing emails, SECAI25, HAL: hal-05127120, 2025-06-25. 
+- A classification of manipulation technique used in social engineering attacks and underlying cognitive biases, needs, norms, and emotions, working paper, HAL: hal-05027416, 2025-04-09.
 
 ---
 
